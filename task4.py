@@ -17,3 +17,7 @@ main_stage = {
 
 print(vip)
 print(main_stage)
+
+# Good for main stage but I can add some one in the vip hall.
+# Take a look on some another types which provide ability to protect you
+# vip hall for mutations.
