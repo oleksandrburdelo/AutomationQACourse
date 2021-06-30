@@ -9,4 +9,6 @@ toshiba.extend(global_logic)
 for element in toshiba:
     print(element)
 
-
+# Good. But employees of global logic now in toshiba and global logic but
+# should be only in toshiba. Take a look on some methods of list which could
+# help you.
