@@ -1,5 +1,9 @@
-names_1 = {'John Dow', 'Marta Dow', 'John Travolta', 'Marta Onischuk', 'Marta', 'John Dow'}
-names_2 = {'John Travolta', 'Oleksandr Burdelo', 'Marta', 'Marta Onischuk', 'John Dow'}
+names_1 = {
+    'John Dow', 'John Dow', 'Marta Dow', 'Marta Dow',
+    'John Travolta', 'John Travolta', 'Marta Onischuk', 'Marta Onischuk',
+    'Marta', 'Marta', 'John Dow', 'John Dow'
+}
+names_2 = {'John Travolta', 'Oleksandr Burdelo', 'Marta', 'Marta', 'Marta Onischuk', 'John Dow'}
 print(names_1.intersection(names_2))
 
 # Not correct. Main idea of this task is to get all names which unique.
