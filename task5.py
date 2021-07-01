@@ -1,13 +1,9 @@
-names_1 = {
-    'John Dow', 'John Dow', 'Marta Dow', 'Marta Dow',
-    'John Travolta', 'John Travolta', 'Marta Onischuk', 'Marta Onischuk',
-    'Marta', 'Marta', 'John Dow', 'John Dow'
-}
-names_2 = {'John Travolta', 'Oleksandr Burdelo', 'Marta', 'Marta', 'Marta Onischuk', 'John Dow'}
-print(names_1.intersection(names_2))
+#task5.update
 
-# Not correct. Main idea of this task is to get all names which unique.
-# For example if I have list ["John", "Marta", "James", "John"] and you should
-# get only unique of them. It means that "John" will be only one.
-# ["John", "Marta", "James", "John"] => ["John", "Marta", "James"]
-# Set it is not the best type for this task.
+names1 = {
+    'John Dow', 'John Wood', 'Marta Wood', 'Marta Dow JR', 'John Dow', 'John Wood'
+}
+unique_names = set(names1)
+
+for name in unique_names:
+    print(name)

@@ -1,3 +1,4 @@
+#task2.update
 
 bingo_blacklist = {'John Dow', 'Marta Dow', 'Richard Dow'}
 poker_blacklist = {'John Dow', 'Marta Wod', 'Richard Wod'}
