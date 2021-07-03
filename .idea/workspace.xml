@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58cc389-29e9-49c1-9222-81624273c6d4" name="Default Changelist" comment="HW3: task2">
-      <change afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
-    </list>
+    <list default="true" id="b58cc389-29e9-49c1-9222-81624273c6d4" name="Default Changelist" comment="HW3: task3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Python.task3">
+  <component name="RunManager" selected="Python.task2">
     <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,9 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task2" />
         <item itemvalue="Python.task3" />
         <item itemvalue="Python.task1" />
-        <item itemvalue="Python.task2" />
         <item itemvalue="Python.task5" />
         <item itemvalue="Python.task4" />
       </list>
@@ -269,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625316211455</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="HW3: task3">
+      <created>1625322479516</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1625322479516</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +298,7 @@
     <MESSAGE value="HW2: HomeTask ver 2.0" />
     <MESSAGE value="HW3: task1" />
     <MESSAGE value="HW3: task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3: task2" />
+    <MESSAGE value="HW3: task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3: task3" />
   </component>
 </project>
